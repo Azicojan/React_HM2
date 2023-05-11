@@ -1,0 +1,27 @@
+
+  .drinkList {
+    list-style: none;
+    padding-left: 100px;
+  }
+  
+  .drinkList li {
+    margin-bottom: 10px;
+    padding-left: 100px;
+  }
+  
+  .addDrinkContainer {
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    padding-left: 100px;
+  }
+
+  ul{
+    list-style: none;
+  }
+
+  button{
+    margin:0;
+    padding: 5px;
+  }
+  
